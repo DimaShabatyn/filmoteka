@@ -43,3 +43,6 @@ function escapeListTeam(e) {
 //   teamRefs.backdropTeam.classList.toggle('is-hidden');
 // }
 
+// function logBackdropClick() {
+//   teamRefs.backdropTeam.classList.add('is-hidden');
+//  }
